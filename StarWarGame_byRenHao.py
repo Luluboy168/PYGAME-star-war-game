@@ -6,7 +6,7 @@ pygame.mixer.init()
 #windows
 WIDTH, HEIGHT = 900, 500
 win = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption(("star war by Chinlu"))
+pygame.display.set_caption(("star war"))
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0 , 0)
